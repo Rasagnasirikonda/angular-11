@@ -24,5 +24,8 @@ products=[ {
     }];
 
     task: create an array of food/movie objects and show them in template using ngFor
-2. Property Directives
+2. Property Directives:
+property directives are used to define properties such as class and style based on condition
+
+
 3. Custom Directives

@@ -3,4 +3,5 @@
 3. Angular Install & folder Structure
 4. Data Binding-->string interpolation,property binding,event binding,two data binding
 5. Component communication-->@Input,@output,viechild,template reference variable
-6. Directives- structural--ngIf,ngSwitch,ngFor
+6. Directives- structural--ngIf,ngSwitch,ngFor,property-ngClass,ngStyle, custom 
+7.pipes
